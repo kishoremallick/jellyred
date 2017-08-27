@@ -1,0 +1,28 @@
+.jumbotron-odi-hero{
+  max-width: 100%;
+  padding: 0px;
+  background:url('../img/jelly-jumbotron.jpeg') no-repeat center center;
+
+}
+.jumbotron-odi-dark{
+  max-width: 100%;
+  padding: 0px;
+  
+}
+
+.jumbotron-overlay {
+  height:100%;
+  color:#fff;
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.901961) .5%, rgba(8, 34, 51, .3) 100%);
+  background-image: linear-gradient(bottom, rgba(0, 0, 0, 0.901961) 0%, rgba(8, 34, 51, 0) 100%);
+}
+.jumbotron-padding{
+	padding-top: 6rem;
+	padding-bottom: 6rem;
+}
+.custom-svg-icon{
+  width: 100px;
+  margin: auto;
+  display:block;
+  fill: green;
+}
